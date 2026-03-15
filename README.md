@@ -1,43 +1,85 @@
-<h2 align="left">Hi, I'm Nishant 👋<br>I'm a developer who genuinely loves turning real-world problems into clean, scalable code. I focus on understanding challenges deeply and building systems that actually work in the real world — efficient, reliable, and ready to grow.<br>For me, development is more than just writing lines. It's about logic, smart design, and solving things the right way. I spend most of my time building full-stack applications and experimenting with ideas that mix technology and practical problem-solving.<br>(And yes… a lot of that time also involves converting coffee into working features.)<br><br>🚀 Skills & Abilities<br><br>Problem Solving – I enjoy breaking down complex issues and finding clean solutions<br>Full-Stack Development – From frontend to backend, databases to deployment<br>Building Scalable Applications – Systems that can handle growth without drama<br>Leadership – Guiding teams and projects from idea to reality<br>Communication Skills – Explaining tech clearly (even at 2 AM)<br>Persistence & Strong Work Ethic – I stick with problems until they're fixed<br><br><br>📌 Current Focus<br><br>Building scalable full-stack applications<br>Learning advanced system design concepts<br>Practicing Data Structures and Algorithms (DSA)<br>Developing real-world problem-solving projects<br>Exploring AI-powered systems<br><br><br>🚀 Projects<br>Most of my projects are built to solve actual problems using modern tech. You'll see full-stack apps, experiments with scalability, and ideas across different domains — because the best way to learn is by building things that matter.<br>Every repo is a mix of practical solutions and the occasional late-night "wait, why is this working now?" moment.</h2>
+<!-- Animated Header -->
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Nishant+%F0%9F%91%8B;Full+Stack+Developer;Problem+Solver;Building+Scalable+Systems;Turning+Ideas+Into+Code" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-</div>
+---
 
-###
+<h1 align="center">👨‍💻 Nishant</h1>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/nishantshetty10/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="center">
+Developer focused on solving real-world problems and building scalable systems through technology.
+</p>
 
-###
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
+</p>
+
+---
+
+## 👋 About Me
+
+I am a passionate developer who loves solving real-world problems using technology.
+All I try to do is implement technology in ways that can solve practical challenges and build systems that are scalable and efficient.
+
+For me, development is not just about writing code — it is about understanding problems deeply and designing systems that can solve them effectively.
+
+I enjoy building full-stack applications and experimenting with ideas that combine technology, logic, and problem-solving.
+
+You could say most of my time goes into turning problems into code… and occasionally turning coffee into code as well.
+
+---
+
+## 🚀 Skills & Abilities
+
+⚡ Problem Solving
+⚡ Full-Stack Development
+⚡ Building Scalable Applications
+⚡ Leadership
+⚡ Communication Skills
+⚡ Persistence and Strong Work Ethic
+
+---
+
+## 📌 Current Focus
+
+🧠 Building scalable full-stack applications
+🧠 Practicing Data Structures and Algorithms (DSA)
+🧠 Learning advanced system design concepts
+🧠 Developing real-world problem-solving projects
+🧠 Exploring AI-powered systems
+
+---
+
+## 🚀 Projects
+
+Most of my projects focus on implementing technology to solve real-world problems. I enjoy building systems that are practical, scalable, and meaningful.
+
+You will find experiments, systems, and ideas across different domains — because sometimes the best way to learn is to build.
+
+---
+
+## 💡 Developer Notes
+
+* I like solving problems more than collecting programming languages.
+* I try to treat bugs as **"unexpected features"**.
+* If the code works on the first run, I immediately get suspicious.
+* Scalable systems are not built by accident.
+* My debugging strategy sometimes involves staring at the screen until the code feels guilty.
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+⭐ I believe great developers are not defined by the languages they know, but by the problems they solve.
+</p>
