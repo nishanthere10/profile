@@ -1,6 +1,11 @@
-<!-- HEADER - Main Waving Animation -->
+<!-- HEADER - Main Waving Animation with Quote -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nishant%20Shetty&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Nishant%20Shetty-nl-First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
+<!-- Secondary Waving Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=90&section=header&text=Fullstack%20%7C%20Systems%20%26%20DSA%20%7C%20GenAI&fontSize=22&fontAlignY=35&animation=scaleIn&fontColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -126,7 +131,7 @@ Check out my pinned repositories to see them in action.
   </a>
 </div>
 
-<!-- FOOTER - Enhanced Waving Animation -->
+<!-- FOOTER - Waving Animation -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer&animation=fadeIn"/>
 </p>
