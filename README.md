@@ -1,6 +1,6 @@
-<!-- HEADER - Main Waving Animation with Quote -->
+<!-- HEADER - Main Waving Animation with Smaller Quote -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Nishant%20Shetty-nl-First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Nishant%20Shetty-nl-%22First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.%22&fontSize=48&fontAlignY=38&descSize=28&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <!-- Secondary Waving Animation -->
