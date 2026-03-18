@@ -1,4 +1,4 @@
-<!-- HEADER - Main Waving Animation with Smaller Quote -->
+<!-- HEADER - Main Waving Animation with Quote -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Nishant%20Shetty-nl-%22First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.%22&fontSize=48&fontAlignY=38&descSize=28&animation=fadeIn&fontColor=ffffff"/>
 </p>
@@ -16,11 +16,12 @@
 
 <h2 align="left">Hi, I'm Nishant 👋</h2>
 
-I'm a passionate full-stack developer who loves turning **real-world problems into clean, scalable, and efficient systems**.  
+I’m a full-stack developer who spends most of his time turning real-world problems into working code.  
 
-I focus on deeply understanding challenges before building solutions that are reliable and ready to grow. For me, development is about smart architecture, solid logic, and delivering actual value — not just writing code.  
+I like understanding the problem properly first, then building systems that are clean, scalable, and don’t explode when real users show up.  
 
-*(Most days it’s problem → code. Some days it’s coffee ☕ → code. Occasionally the coffee wins.)*
+Between debugging, designing architecture, and grinding DSA, I also run a highly efficient coffee-to-code conversion pipeline ☕→💻.  
+*(Sometimes the coffee wins.)*
 
 ---
 <p align="center">
@@ -31,12 +32,12 @@ I focus on deeply understanding challenges before building solutions that are re
 
 # 🚀 Skills & Abilities
 
-- **Problem Solving** — Breaking down complex issues into elegant, maintainable solutions  
-- **Full-Stack Development** — End-to-end applications from intuitive UIs to robust backends  
-- **Scalable Systems** — Architecting applications that grow without drama  
-- **Leadership** — Guiding projects and teams from concept to production  
-- **Communication** — Translating technical concepts clearly for everyone  
-- **Persistence** — Staying with tough problems until they’re solved
+- **Problem Solving** — I enjoy breaking down messy problems until they behave 🧠  
+- **Full-Stack Development** — Frontend, backend, database, deployment… the whole circus 🎪  
+- **Scalable Systems** — Building apps that can handle growth instead of crying in production 📈  
+- **Leadership** — Taking ideas and turning them into actual shipped products 👨‍💼  
+- **Communication** — Explaining tech stuff without making people regret asking ❓  
+- **Persistence** — I don’t quit until the bug surrenders 🏳️‍
 
 ---
 
@@ -44,9 +45,9 @@ I focus on deeply understanding challenges before building solutions that are re
 
 - Building scalable full-stack applications  
 - Mastering advanced system design  
-- Practicing Data Structures and Algorithms (DSA)  
-- Developing real-world problem-solving projects  
-- Exploring Generative AI systems
+- Grinding Data Structures and Algorithms (DSA)  
+- Shipping real-world problem-solving projects  
+- Exploring Generative AI systems 🤖
 
 ---
 
@@ -96,11 +97,12 @@ I focus on deeply understanding challenges before building solutions that are re
 
 # 🚀 Projects
 
-I build practical, scalable applications that solve real problems. You'll find full-stack web apps, backend systems, DSA implementations, and GenAI experiments — all focused on clean code and meaningful impact.  
+I mostly build practical full-stack apps, scalable backends, and the occasional GenAI experiment.  
+Some projects started as “just for fun” and ended up teaching me more than any course ever could.
 
-*(Some of them even started working at 3 AM… after enough coffee.)*
+*(A few of them magically started working at 3 AM after excessive coffee consumption.)*
 
-Check out my pinned repositories to see them in action.
+Feel free to explore my pinned repos 👀
 
 ---
 
@@ -115,11 +117,11 @@ Check out my pinned repositories to see them in action.
 
 # 💡 Developer Thoughts
 
-- I enjoy solving problems more than collecting programming languages  
-- If the code works on the first run, I get suspicious  
-- Bugs are just undocumented features  
-- Good architecture always beats clever hacks  
-- Sometimes I debug by staring at the screen until the code feels guilty
+- I like solving problems more than collecting programming languages  
+- If the code runs perfectly on the first try, I assume I’m in a simulation 🧐  
+- Bugs are just undocumented features in disguise  
+- Good architecture > clever hacks (always)  
+- My go-to debugging technique: stare at the screen until the code feels guilty 👀
 
 ---
 
