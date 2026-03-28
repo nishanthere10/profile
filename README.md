@@ -75,13 +75,6 @@ Between debugging, designing architecture, and grinding DSA, I also run a highly
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-<img width="8"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" height="32" alt="LangChain"/>
-<img width="8"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" height="32" alt="HuggingFace"/>
-<img width="8"/>
-<img width="8"/>
-<img width="8"/>
 </p>
 
 ---
@@ -115,17 +108,6 @@ Feel free to explore my pinned repos 👀
   <img src="https://github-readme-stats.vercel.app/api?username=nishanthere10&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthere10&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top Languages"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthere10&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-</div>
-```
-
----
-
-**One note on the streak widget:** `github-readme-streak-stats.herokuapp.com` is the most common URL used in READMEs, but it occasionally goes down. If you find it's not rendering, use this alternative URL instead:
-```
-https://streak-stats.demolab.com/?user=nishanthere10&theme=dracula&hide_border=true>
 
 ---
 
